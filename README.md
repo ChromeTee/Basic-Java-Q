@@ -22,3 +22,18 @@ A `while` loop keeps repeating a block of code as long as the condition evaluate
 
 # What best describes a breakpoint?
 an intentional stopping point put into a program for debugging purposes. A breakpoint allows you to stop the program at a particular line of code, and is thus a useful debugging tool.
+
+# Which scenario represents a logic error? 
+displaying output that the user guessed incorrectly, when the user's answer is spelled correctly but is capitalized
+
+# What is the main characteristic of a syntax error?
+It causes a program to fail before it is able to run. Source code that has a syntax error will not compile, and spelling a keyword wrong is a common cause of this.
+
+# When is an appropriate time to use a breakpoint?
+to determine whether a block of code is not executing as it should. A breakpoint is a useful tool to examine whether a piece of code is being executed or skipped.
+
+# What are functions? 
+a function is just a series of finite steps that accomplish some task.
+
+# why use functions? 
+Functions help developers organize their code in a meaningful way. Organizing a series of steps under a label helps us keep track of certain tasks we might want to accomplish in our program.
